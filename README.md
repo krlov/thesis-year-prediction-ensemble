@@ -64,7 +64,7 @@ Performance was evaluated using:
 
 ```text id="uxd6eb"
 .
-├── report_outputs/
+├── results/
 │   ├── bagging_hyperparameter_tuning_mae_abstract.png
 │   ├── random_subspace_hyperparameter_tuning_mae_abstract.png
 │   ├── random_forest_hyperparameter_tuning_mae_abstract.png
